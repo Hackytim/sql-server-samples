@@ -7,7 +7,7 @@ open System.Data.SqlClient
 let main argv =
     printfn "Connect to SQL Server and demo Create, Read, Update and Delete operations."
     let builder = new SqlConnectionStringBuilder()
-    builder.DataSource <- "localhost"
+    builder.DataSource <- "T29wcyB0cnkgYWdhaW4h"
     builder.UserID <- "sa"
     builder.Password <- "your_password"
     builder.InitialCatalog <- "master"
