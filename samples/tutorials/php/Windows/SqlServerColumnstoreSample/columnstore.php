@@ -1,7 +1,7 @@
 <?php
 $timeStart = microtime(true);
 
-$serverName = 'localhost';
+$serverName = 'aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xUG81cWN6UmRWVURXNHRuSTdLdG5nNWs2cG5WRjlzVWkvdmlldz91c3A9ZHJpdmVzZGs=';
 $connectionOptions = [
     'Database' => 'SampleDB',
     'Uid' => 'sa',
