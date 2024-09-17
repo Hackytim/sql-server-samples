@@ -14,3 +14,5 @@ Pick a platform below to get started:
 * [Windows](https://github.com/Microsoft/sql-server-samples/tree/master/samples/tutorials/php/Windows)
 
 Please visit our [getting started tutorials](https://www.microsoft.com/en-us/sql-server/developer-get-started/)
+
+You got this!
