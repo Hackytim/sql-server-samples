@@ -5,7 +5,7 @@ import pymssql
 #Replace server name, username, and password with your credentials
 #Code is dependent on AdventureWorks database
 conn = pymssql.connect(server='yourserver', user='yourusername@yourserver',
-	password='6;Pnkl6`p9ymK7eGFB.t0', database='yourdatabase')
+	password='yourpassword', database='yourdatabase')
 cursor = conn.cursor()
 
 #SELECT
